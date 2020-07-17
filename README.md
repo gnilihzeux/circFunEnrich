@@ -31,3 +31,6 @@ launchApp()
 Some functions of the app depends on ***clusterProfiler***, so a more memory is needed.
 
 What my ROM size is 8G.
+
+## Test
+The test data could be found in `~/inst/extdata`.
