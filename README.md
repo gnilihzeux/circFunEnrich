@@ -7,6 +7,15 @@ It contains three parts of
 * canonical function enrichment analysis(CFEA) 
 * gene set enrichment analysis(GSEA).
 
+## OS
+
+What my computer is Windows 10, X86_64
+
+## Depends
+As a shiny app, you have to install the **R** and **Rstudio**.
+
+* R (>= 3.6.0)
+
 ## Install
 ```
 library(devtools)
@@ -17,6 +26,7 @@ install_github("gnilihzeux/circFunEnrich")
 library(circFunEnrich.beta1.1)
 launchApp()
 ```
-## Suggestion
-Some functions of the app depends on *clusterProfiler*, so a more memory is needed.
+## Suggestions
+Some functions of the app depends on ***clusterProfiler***, so a more memory is needed.
+
 What my ROM size is 8G.
